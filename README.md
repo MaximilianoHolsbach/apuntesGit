@@ -26,6 +26,7 @@ Apuntes extraídos del video de MoureDev en youtube
 * git add . : adherir todo lo que esta al alcanse de git.
 * git commit -m : guarda una especie de instantanea del proyecto en ese momento y nos indica que tenemos que agregar un mensaje
 * git log : nos muestra los registros comiteados.
+* git checkout : nos permite volver a al registro comiteado más próximo.
 
 >
     Que es una rama "branch"?  
