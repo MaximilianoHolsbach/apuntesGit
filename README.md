@@ -6,7 +6,8 @@ Apuntes extraídos del video de MoureDev en youtube
     Aparecio el 7 de abril de 2005, uno de sus creadores es Linux Torval
 
     Que es un sistema de control de versiones?
-    Es una herramienta que gestiona cambios el el código fuente de un proyecto, permitiendo rastrear las modificaciones.
+    Es una herramienta que gestiona cambios en el código fuente de un proyecto, permitiendo rastrear las modificaciones.
+    El siguiente es un ejemplo: [main 995dce8], se puede observar que sobre la rama main se tiene el hash 995dce8, el mismo es unico e irrepetible, durante todo el proyecto.
 
 
 **CONFIGURACION DE USUARIO DE GIT**
@@ -23,6 +24,8 @@ Apuntes extraídos del video de MoureDev en youtube
 * git status : nos muestra las modificaciones en los archivos alcanzados por git.
 * git add nombreArchivo : adherir para realizar seguimiento a un archivo específico.
 * git add . : adherir todo lo que esta al alcanse de git.
+* git commit -m : guarda una especie de instantanea del proyecto en ese momento y nos indica que tenemos que agregar un mensaje
+* git log : nos muestra los registros comiteados.
 
 >
     Que es una rama "branch"?  
