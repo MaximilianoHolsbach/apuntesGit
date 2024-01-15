@@ -27,7 +27,7 @@ Apuntes extraídos del video de MoureDev en youtube
 * git commit -m : guarda una especie de instantanea del proyecto en ese momento y nos indica que tenemos que agregar un mensaje
 * git log : nos muestra los registros comiteados.
 * git checkout : nos permite volver a al registro comiteado más próximo.
-
+* git diff : diferencia en los archivos modificados.
 >
     Que es una rama "branch"?  
     Es una línea de desarrollo independiente que permite trabajar cambios de forma aislada. Permite crear y funsionar nuevas características, sin afectar a la rama principal.
