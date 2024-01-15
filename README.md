@@ -27,6 +27,9 @@ Apuntes extraídos del video de MoureDev en youtube
 * git commit -m : guarda una especie de instantanea del proyecto en ese momento y nos indica que tenemos que agregar un mensaje
 * git log : nos muestra los registros comiteados.
 * git checkout : nos permite volver a al registro comiteado más próximo.
+* git log --graph : nos permite observar un gráfico rústico de como se ven las ramas.
+* git log --graph --decorate --all --oneline : ordena los commits de una forma más legible.
+* git diff : nos mostrara los cambios que se realizaron en los archivos modificados.
 * git diff : diferencia en los archivos modificados.
 >
     Que es una rama "branch"?  
