@@ -31,3 +31,7 @@ Apuntes extraídos del video de MoureDev en youtube
 >
     Que es una rama "branch"?  
     Es una línea de desarrollo independiente que permite trabajar cambios de forma aislada. Permite crear y funsionar nuevas características, sin afectar a la rama principal.
+
+**COMO TRABAJAR CON RAMAS?**
+* git branch "el nombre de la rama" : creamos una nueva rama
+* git switch "el nombre de la rama" : nos movemos a la nueva rama
