@@ -30,7 +30,8 @@ Apuntes extraídos del video de MoureDev en youtube
 * git log --graph : nos permite observar un gráfico rústico de como se ven las ramas.
 * git log --graph --decorate --all --oneline : ordena los commits de una forma más legible.
 * git diff : nos mostrara los cambios que se realizaron en los archivos modificados.
-* git diff : diferencia en los archivos modificados.
+* git stash : para guardar los procesos en working progres
+
 >
     Que es una rama "branch"?  
     Es una línea de desarrollo independiente que permite trabajar cambios de forma aislada. Permite crear y funsionar nuevas características, sin afectar a la rama principal.
