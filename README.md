@@ -49,4 +49,4 @@ Apuntes extraídos del video de MoureDev en youtube
 
 **COMANDOS POR TERMINAL DE GITHUB**  
 * git push origin main : para elevar el proyecto al repositorio de gitHub.
-*
+* git fetch : se descarga el historial pero no los cambios 
