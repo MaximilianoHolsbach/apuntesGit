@@ -40,4 +40,12 @@ Apuntes extraídos del video de MoureDev en youtube
 * git branch "el nombre de la rama" : creamos una nueva rama
 * git switch "el nombre de la rama" : nos movemos a la nueva rama
 
-quedamos en ese tiempo 1:52:34
+**GITHUB**
+>
+
+    Que es "github"?  
+    Es una plataforma de desarrollo colaborativo que permite a los desarrolladores almacenar, gestionar y compartir código funte de proyectos.
+
+
+**COMANDOS POR TERMINAL DE GITHUB**  
+* 
