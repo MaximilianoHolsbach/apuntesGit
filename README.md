@@ -38,3 +38,5 @@ Apuntes extraídos del video de MoureDev en youtube
 **COMO TRABAJAR CON RAMAS?**
 * git branch "el nombre de la rama" : creamos una nueva rama
 * git switch "el nombre de la rama" : nos movemos a la nueva rama
+
+quedamos en ese tiempo 1:52:34
